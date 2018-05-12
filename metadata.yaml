@@ -1,0 +1,41 @@
+_repo: Old-Hendrik-s-Tales_32921
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shepherd, J. A. (James Affleck)
+    aliases:
+    - Shepherd, James Affleck
+    - Shepherd, J.A.
+    birthdate: 1867
+    gutenberg_agent_id: '36108'
+    url: http://www.gutenberg.org/2009/agents/36108
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaughan, Arthur Owen
+    aliases:
+    - Vaughan, A. O. (Arthur Owen)
+    - Mills, Robert Scourfield
+    - Rhoscomyl, Owen
+    gutenberg_agent_id: '36107'
+    url: http://www.gutenberg.org/2009/agents/36107
+description: ''
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Folklore'
+- !lcsh 'Folklore -- South Africa'
+- !lcsh 'Animals -- South Africa'
+- !lcsh 'South Africa -- Social life and customs'
+- !lcc 'GR'
+- !lcsh 'Tales -- South Africa'
+title: Old Hendrik's Tales
+url: http://www.gutenberg.org/ebooks/32921
